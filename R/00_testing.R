@@ -11,3 +11,6 @@ num <- 2
 num/den
 
 1 + den + num
+
+## subtraction
+num - den
